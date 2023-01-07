@@ -125,7 +125,6 @@ body {
     padding-left: 150px;
     padding-top: 10px;
 
-
 }
 
 #text-color {
@@ -183,7 +182,7 @@ body {
     width: 40%;
 }
 
-.flexible-container3 {
+.flexible-container1 {
     margin-top: 150px;
     display: flex;
     padding-left: 150px;
@@ -222,6 +221,37 @@ body {
     padding-bottom: 40px;
 }
 
+.flexible-container3 {
+    background-image: url(images/watch.png);
+    background-image: linear-gradient(rgb(71, 135, 255), );
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-left: 150px;
+    padding-top: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#watch-img {
+    height: 200px;
+
+}
+
+.call-btn {
+    text-decoration: none;
+    background-image: linear-gradient(white, white);
+    padding: 15px 40px;
+    color: rgb(25, 66, 135);
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
 .flexible-container4 {
     display: flex;
     width: 800px;
@@ -250,27 +280,40 @@ body {
 
 footer {
     background-color: black;
-    text-align: center;
+    text-align: start;
     padding-top: 10px;
-    height: 150px;
-}
-
-.be-humble {
-    color: tomato;
-
-}
-
-#gonna {
-    color: aquamarine;
-}
-
-.link-button-subscribe {
-    text-decoration: none;
-    background-image: linear-gradient(tomato, tomato);
-    margin-bottom: 10px;
-    padding: 16px 40px;
-    padding-bottom: 13.5px;
+    height: 100%;
     color: white;
-    font-weight: 700;
-    border-radius: 0px 7px 7px 0px;
+    display: flex;
+    padding: 40px;
+}
+
+.positive {
+    color: tomato;
+    text-align: start;
+
+}
+
+#input-fild {
+    height: 35px;
+    width: 250px;
+    border-color: white;
+    background-color: black;
+    border-radius: 3px;
+}
+
+.subscribe-btn {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(25, 66, 135), rgb(25, 66, 135));
+    padding: 15px 40px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.subscribe {
+    margin-left: 600px;
+    text-align: start;
 }
