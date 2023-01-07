@@ -9,12 +9,6 @@ body {
 
 }
 
-#main-point {
-    font-size: 20px;
-    text-align: center;
-    padding-bottom: 2%;
-}
-
 .full-width {
     color: white;
     text-align: end;
@@ -43,46 +37,10 @@ body {
     border-radius: 5px;
 }
 
-.donate-today {
-    text-align: center;
-    font-size: 30px;
-}
 
 #favourite-font-size {
     font-size: 40px;
 }
-
-#pharagrap-donate {
-    text-align: center;
-    font-size: 30px;
-    color: #757474;
-}
-
-.First-scetion-tk {
-    /* width: 40%;*/
-    margin-left: 20px;
-}
-
-.tk-amount-one {
-    width: 20%;
-    font-size: 30px;
-    margin-left: 30px;
-    /* padding-top: 18px;*/
-    padding: 10px;
-    background-color: #f4ebeb;
-    border-radius: 7px;
-}
-
-.tk-amount-two {
-    color: tomato;
-    font-size: 30px;
-    width: 25%;
-    margin-left: 30px;
-    background-color: #e4bfbf;
-    border-radius: 7px;
-    border: 3px solid tomato;
-}
-
 
 
 .flexible-container {
@@ -91,23 +49,6 @@ body {
     margin-right: 350px;
     margin-left: 320px;
     padding-bottom: 40px;
-}
-
-#other-amount {
-    text-align: center;
-    color: #757474;
-}
-
-#underline {
-    width: 800px;
-    height: 1px;
-    background-color: #757474;
-}
-
-.donate-now {
-    padding-top: 30px;
-    text-align: center;
-    padding-bottom: 130px;
 }
 
 .our-learn-plan {
@@ -291,6 +232,7 @@ footer {
 
 }
 
+/* footer Section Start */
 #input-fild {
     height: 35px;
     width: 250px;
