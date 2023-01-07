@@ -222,11 +222,8 @@ body {
 }
 
 .flexible-container3 {
-    background-image: url(images/watch.png);
-    background-image: linear-gradient(rgb(71, 135, 255), );
+    background-image: linear-gradient(to left, rgba(6, 36, 91, 0.52), rgba(238, 241, 243, 0.973)), url(images/watch.png);
     height: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
     background-size: cover;
     padding-left: 150px;
     padding-top: 10px;
