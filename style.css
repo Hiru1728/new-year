@@ -110,14 +110,20 @@ body {
     padding-bottom: 130px;
 }
 
-.our-donation-plan {
-    width: 26%;
+.our-learn-plan {
+    width: 20%;
+}
+
+.my-plan {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
 }
 
 .flexible-container2 {
     display: flex;
     padding-left: 150px;
-    padding-top: 40px;
+    padding-top: 10px;
 
 
 }
@@ -133,37 +139,44 @@ body {
     width: 15%;
 }
 
-.food {
+.web-development {
     margin-right: 25px;
     padding-left: 20px;
     padding-top: 50px;
     padding-right: 10px;
     padding-bottom: 30px;
-    background-color: rgb(233, 247, 247);
     border-radius: 5px;
 }
 
-.shelter {
+.javascript {
     margin-right: 25px;
     padding-left: 20px;
     padding-top: 50px;
     padding-right: 10px;
     padding-bottom: 30px;
-    background-color: antiquewhite;
     border-radius: 5px;
 }
 
-.education {
+.smoking-habit {
+    margin-right: 25px;
     padding-left: 20px;
     padding-top: 50px;
     padding-right: 10px;
     padding-bottom: 30px;
-    background-color: bisque;
+    border-radius: 5px;
+}
+
+.ecommerce {
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 30px;
     border-radius: 5px;
 }
 
 #image-padding {
-    width: 13%;
+    width: 30%;
+    margin-left: 20px;
 }
 
 .half-width {
@@ -174,7 +187,7 @@ body {
     margin-top: 150px;
     display: flex;
     padding-left: 150px;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 
 }
 
