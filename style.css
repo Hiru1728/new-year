@@ -181,12 +181,16 @@ body {
 #half-width-img {
     width: 450Px;
     height: 500px;
-    margin-left: 50px;
+    margin-right: 50px;
     border-radius: 7px;
 }
 
 .padding-button {
     padding-bottom: 20px;
+}
+
+.last-p {
+    padding-bottom: 30px;
 }
 
 .link-button-how {
